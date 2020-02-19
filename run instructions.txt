@@ -1,0 +1,14 @@
+Python:
+Please find attached python notebook “Python_cab_rental.ipynb” file. This can be run in Jupyter notebook. 
+Another file “Python_cab_rental.py” has also been provided which can be run from command prompt by following these steps:
+1.	Set the location to where the .py file has been saved
+2.	Run command: 
+a.	>python Python_cab_rental.py
+
+
+R:
+Please find attached “R_cab_rental.R” file. This could be run using RStudio or from command prompt by following these steps:
+1.	Find the path to R.exe or Rscript.exe in R’s bin folder. Let it be path1.
+2.	Find the path to where .R file has been saved. Let it be path 2.
+3.	Run: 
+a.	> “path1” CMD BATCH “path2”
